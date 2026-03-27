@@ -1,8 +1,5 @@
 # Seeded Issues
 
-Create these manually in GitHub after pushing the repo.
-Copy the title and body for each into GitHub Issues.
-
 ---
 
 ## Issue 1
