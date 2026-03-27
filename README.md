@@ -82,6 +82,8 @@ The skill is a single `SKILL.md` file — plain markdown with a YAML frontmatter
 
 Check the Issues tab for specific improvements and entry points.
 
+Even small improvements to prompt structure, interview questions, or tool-specific behavior are valuable.
+
 ---
 
 ## License
