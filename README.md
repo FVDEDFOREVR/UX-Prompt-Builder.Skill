@@ -80,7 +80,7 @@ The prompt doesn't replace the craft. It compresses the gap between blank canvas
 
 The skill is a single `SKILL.md` file — plain markdown with a YAML frontmatter block. Fork it, modify the interview questions, add your own stack defaults, or extend the tool-specific output rules.
 
-Pull requests welcome.
+Check the Issues tab for specific improvements and entry points.
 
 ---
 
