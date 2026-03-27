@@ -46,7 +46,7 @@ Claude · ChatGPT · Codex · Cursor · Windsurf · GitHub Copilot · Lovable ·
    - *"Help me write a Lovable prompt for a card component"*
    - *"I need a Cursor prompt for a sidebar nav"*
 
-The skill triggers automatically.
+The skill should triggers automatically at first. If not, ask Claude if it's using the UX prompt builder skill, it will continue to use that skill across chats after initializing.
 
 ### Option 2 — Use the SKILL.md directly
 
