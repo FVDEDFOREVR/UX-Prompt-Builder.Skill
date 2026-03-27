@@ -1,7 +1,5 @@
 # Seeded Issues
 
----
-
 ## Issue 1
 
 **Title:** Add tool profiles for Replit, Framer, and Google Stitch
