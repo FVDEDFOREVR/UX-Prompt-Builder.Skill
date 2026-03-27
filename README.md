@@ -2,7 +2,7 @@
 
 A Claude skill that interviews you about what you want to build, then outputs a polished, copy-paste-ready prompt tailored to your target AI tool.
 
-Built by [Daniel Hairston](https://danielhairston.com) / [Hairston Studio](https://hairstonstudio.com)
+Built by [Daniel Hairston](https://danielhairston.com)
 
 ---
 
