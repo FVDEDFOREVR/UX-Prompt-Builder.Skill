@@ -38,6 +38,10 @@ Claude · ChatGPT · Codex · Cursor · Windsurf · GitHub Copilot · Lovable ·
 
 ### Option 1 — Install the `.skill` file (recommended)
 
+### Install (Claude)
+
+[Download the skill file](https://github.com/FVDEDFOREVR/UX-Prompt-Builder.Skill/raw/main/ux-prompt-builder.skill)
+
 1. Download `ux-prompt-builder.skill` from this repo
 2. Go to **claude.ai → Settings → Skills**
 3. Upload the `.skill` file
